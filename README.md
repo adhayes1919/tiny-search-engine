@@ -32,10 +32,5 @@ make clean
 
 - Please see individual directories for **implementation specifications** and further details.
 - Due to academic integrity policies, the source code is **not publicly available on GitHub** since the project is still actively used in coursework. 
-- If you're interested in viewing the source, please email me directly for access.
+- If you're interested in viewing my code, please email me at **aydenhayes.26@dartmouth.edu** and I will add you as a collaborator.
 
-- If there is a more conventional way to share the project while maintaining academic integrity, I am open to suggestions.
-
----
-
-Build, peruse, and enjoy!
